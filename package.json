@@ -13,7 +13,7 @@
     "decompress": "^4.2.0",
     "docx-parser": "^0.2.1",
     "express": "^4.17.1",
-    "mammoth": "^1.4.9",
+    "mammoth": "^1.5.1",
     "multer": "^1.4.2"
   }
 }
